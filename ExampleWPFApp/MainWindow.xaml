@@ -36,6 +36,6 @@
         <Button Grid.Row="1" Grid.Column="4">+</Button>
         <Button Grid.Row="2" Grid.Column="4">_</Button>
         <Button Grid.Row="3" Grid.Column="4">*</Button>
-        <Button Grid.Row="4" Grid.Column="4">=</Button>
+        <Button Grid.Row="4" Grid.Column="4">/</Button>
     </Grid>
 </Window>
